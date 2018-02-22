@@ -86,7 +86,6 @@ http.createServer(function (request, response) {
 ![Logo](assets/image/image001.jpg)
 <br>
 <div class="left">
-    <img src="assets/image/gitpitch-audience.jpg" alt="Smiley face" height="42" width="42">
     <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
     <a href="https://gitpitch.com/pro-features" class="pro-link">
     More details here.</a>
