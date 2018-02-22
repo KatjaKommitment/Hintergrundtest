@@ -83,9 +83,9 @@ http.createServer(function (request, response) {
 
 ## Go GitPitch Pro!
 
+---?image=assets/image/image001.jpg
 <br>
 <div class="left">
-    ---?image=assets/image/image001.jpg&size=123
     <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
     <a href="https://gitpitch.com/pro-features" class="pro-link">
     More details here.</a>
