@@ -85,6 +85,8 @@ http.createServer(function (request, response) {
 
 <br>
 <div class="left">
+
+    ![Logo](assets/image/image001.jpg)
     <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
     <a href="https://gitpitch.com/pro-features" class="pro-link">
     More details here.</a>
@@ -105,7 +107,6 @@ http.createServer(function (request, response) {
 
 <br>
 
-![Logo](assets/image/image001.jpg)
 
 @fa[twitter gp-contact](@gitpitch)
 
