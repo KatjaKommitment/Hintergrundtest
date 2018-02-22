@@ -93,6 +93,7 @@ http.createServer(function (request, response) {
 <div class="right">
     <ul>
         <li>Private Repos</li>
+        <li>Private Repos</li>
         <li>Private URLs</li>
         <li>Password-Protection</li>
         <li>Image Opacity</li>
