@@ -83,6 +83,7 @@ http.createServer(function (request, response) {
 
 ## Go GitPitch Pro!
 
+![Logo](assets/image/gitpitch-audience.jpg)
 <br>
 <div class="left">
     <img src="assets/image/gitpitch-audience.jpg" alt="Smiley face" height="42" width="42">
